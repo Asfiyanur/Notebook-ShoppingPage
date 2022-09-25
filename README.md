@@ -32,7 +32,7 @@ bootstrap-website(folder)
 
 ## Screenshot
 <p align="center">
-<a href="https://asfiyanur.github.io/Notebook-ShoppingPage/"><img src="NotebookShopping.gif" alt="screenshot"></a>
+<a href="https://asfiyanur.github.io/Notebook-ShoppingPage/"><img src="NotebookShoppingPage.gif" alt="screenshot"></a>
 </p>
 
 
