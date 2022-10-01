@@ -8,19 +8,18 @@
 
 ## Table of contents
 
-
-  - [Screenshot](#screenshot)
   - [Project Skeleton ](#project-skeleton)
+  - [Screenshot](#screenshot) 
   - [Links](#links)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+  - [Author](#author)
 
 
 ## Project Skeleton 
 
 ```
-bootstrap-website(folder)
+Notebook-ShoppingPage(folder)
 
 |----README.md                   
 |----index.html
@@ -71,11 +70,7 @@ bootstrap-website(folder)
 
 ### Useful resources
 
-- [W3 Schools](https://www.w3schools.com/) - This helped me for basics of website paradigm. I really liked this pattern and will use it going forward.
-- [MDN](https://developer.mozilla.org/en-US/) - This is an amazing document which helped me finally understand deep sides of web development. I'd recommend it to anyone still learning these concepts.
-
-
-
+- [W3 Schools](https://www.w3schools.com/) - This is a good document which helped me understand how I use some DOM Manipulation properties.
 
 
 
